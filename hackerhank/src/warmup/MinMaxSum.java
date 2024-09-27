@@ -1,4 +1,5 @@
-import java.util.Arrays;
+package warmup;
+
 import java.util.List;
 
 public class MinMaxSum {

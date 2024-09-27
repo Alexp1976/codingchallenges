@@ -1,3 +1,5 @@
+package warmup;
+
 import java.util.Random;
 
 public class SolveMeFirst {

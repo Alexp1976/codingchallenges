@@ -1,4 +1,5 @@
-import java.util.ArrayList;
+package warmup;
+
 import java.util.List;
 
 public class CompareTheTriplets {
