@@ -5,6 +5,8 @@ import java.util.stream.Collectors;
 
 public class GradingStudents {
 
+    // https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true
+
     public static void main(String[] args) {
 
         gradingStudents(List.of(73, 67, 38, 33)).forEach(System.out::println);

@@ -4,6 +4,8 @@ import java.util.List;
 
 public class MinMaxSum {
 
+    // https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true
+
     public static void main(String[] args) {
 
         minMaxSum(List.of(256741038, 623958417, 467905213, 714532089, 938071625));

@@ -6,6 +6,8 @@ import java.util.Map;
 
 public class BirthdayCakeCandles {
 
+    // https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true
+
     public static void main(String[] args) {
 
         System.out.println(birthdayCakeCandles(List.of(3, 2, 1, 3)));
